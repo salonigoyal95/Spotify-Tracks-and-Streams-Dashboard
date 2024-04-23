@@ -21,7 +21,7 @@ The main components of this project are:
 
 ## Files in this Repository
 
-- `data/`: Contains the cleaned dataset used in the Power BI dashboard.
+- `data/`: Contains the cleaned dataset used in the Power BI dashboard. 
 - `power_bi_dashboard.pbix`: Power BI file containing the interactive dashboard.
 - `presentation_background/`: Includes the custom PowerPoint background used in the dashboard.
 - `README.md`: Documentation providing an overview of the project, setup instructions, and usage guidelines.
@@ -42,3 +42,4 @@ The main components of this project are:
 4. **Presentation Mode**:
    - Use the custom PowerPoint background (`presentation_background/`) to enhance the visual appeal of the dashboard during presentations.
 
+5. **Link to Dataset**: [](https://onyxdata.ck.page/a12261b1fb)
